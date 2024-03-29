@@ -23,4 +23,5 @@ Project Web Scraping
 
 
 
-[Python Project for Data Science.pdf](https://github.com/Venura-94/Extracting-and-Visualizing-Stock-Data/files/14800276/Python.Project.for.Data.Science.pdf)
+![image](https://github.com/Venura-94/Extracting-and-Visualizing-Stock-Data/assets/137409412/e09603cb-3bc7-4b6b-90fd-99209030cb0a)
+

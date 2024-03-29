@@ -20,3 +20,7 @@ Project Web Scraping
 
 - Question 6: Plot GameStop Stock Graph
 ![Q6](https://github.com/Venura-94/Extracting-and-Visualizing-Stock-Data/assets/137409412/0c199df2-01ff-4b10-9b50-6c47dfa18032)
+
+
+
+[Python Project for Data Science.pdf](https://github.com/Venura-94/Extracting-and-Visualizing-Stock-Data/files/14800276/Python.Project.for.Data.Science.pdf)

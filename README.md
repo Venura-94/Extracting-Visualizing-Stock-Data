@@ -1,5 +1,5 @@
 # Extracting-and-Visualizing-Stock-Data
-Project Web Scraping
+Project Web Scraping using BeautifulSoup
 
 # Tasks
   

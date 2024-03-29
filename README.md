@@ -23,5 +23,4 @@ Project Web Scraping
 
 
 
-![image](https://github.com/Venura-94/Extracting-and-Visualizing-Stock-Data/assets/137409412/e09603cb-3bc7-4b6b-90fd-99209030cb0a)
 
